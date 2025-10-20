@@ -1,6 +1,6 @@
-# GyroDrive
+# AirMouse
 
-**GyroDrive** turns an ESP32 + MPU6050 into a motion-controlled mouse. It reads gyroscope data on the ESP32, streams simple `MOVE x y` messages over serial, and a Python client reads those messages to move the system cursor in real time.
+**AirMouse** turns an ESP32 + MPU6050 into a motion-controlled mouse. It reads gyroscope data on the ESP32, streams simple `MOVE x y` messages over serial, and a Python client reads those messages to move the system cursor in real time.
 
 > Quick pitch: move the ESP32 in your hand and the pointer follows. Clean, low-latency, and hackable.
 
