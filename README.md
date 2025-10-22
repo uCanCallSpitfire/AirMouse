@@ -6,6 +6,10 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/8ff4ddb4-8716-44cd-9f67-151c3b044fac)
+
+---
+
 ## Features
 
 * Real-time cursor control using an MPU6050 gyroscope.
